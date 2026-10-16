@@ -1,0 +1,18 @@
+# Build output and runtime state
+bin/
+obj/
+*.exe
+*.pdb
+*.user
+.vs/
+
+# Local configuration and runtime state (never commit)
+config.json
+state/
+logs/
+*.log
+
+# OS and editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
